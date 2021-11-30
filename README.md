@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @tyusman
+- 👋 Hi, I’m Ted
 - 👀 I’m interested in devops
 - 🌱 I’m currently learning cloud
 - 💞️ I’m looking to collaborate on azure
